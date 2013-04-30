@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["nick.ragaz@gmail.com"]
   s.homepage    = "http://rubygems.org/gems/jcrop-rails"
   s.summary     = "Use the Jcrop jQuery plugin with Rails 3.1+"
-  s.description = "This gem provides the Jcrop jQuery plugin for your Rails 3.1 application."
+  s.description = "This gem provides the Jcrop jQuery plugin for your Rails 3.1+ application."
 
   s.required_rubygems_version = ">= 1.3.6"
 
